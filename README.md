@@ -11,7 +11,7 @@ This modpack is aimed to provide immense performance to Minecraft snapshots, as 
 
 <center>
 
-[<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20Theseus-%2300AF5C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fapp">](https://modrinth.com/app) [<img alt="How to Install?" src="https://img.shields.io/badge/📥-HOW%20TO%20INSTALL-blue?style=for-the-badge">](https://github.com/UltimatChamp/lavishly-optimized/wiki/Installation)
+[<img alt="Recommended Launcher: Modrinth Theseus-#00AF5C" src="https://img.shields.io/badge/Recommended%20Launcher-Modrinth%20Theseus-%2300AF5C?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fapp">](https://modrinth.com/app) [<img alt="How to Install?" src="https://img.shields.io/badge/📥-HOW%20TO%20INSTALL-blue?style=for-the-badge">](https://github.com/UltimatChamp/optimum-fuse/wiki/Installation)
 
 </center>
 
